@@ -41,7 +41,7 @@ body {
 body 
 {
     line-height:1.5;
-    font-family:微软雅黑;
+    font-family: monospace;
 }
 a{ text-decoration:none;}
 ul,li{ list-style:none; }
