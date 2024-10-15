@@ -54,14 +54,14 @@ body {
     color: #333;
     background-color: #fff;
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: monospace;
     font-size: 14px;
     line-height: 20px;
 }
 body {
     color: #000;
     flex-direction: column;
-    font-family: Surt, Arial, sans-serif;
+    font-family: monospace;
     font-size: 1vw;
     font-weight: 300;
     line-height: 1.7;
@@ -69,7 +69,7 @@ body {
 .text-block {
     flex-wrap: nowrap;
     margin-bottom: 10px;
-    font-family: Surt, Arial, sans-serif;
+    font-family: monospace;
     font-size: 13px;
     font-weight: 300;
     line-height: 1.7;
@@ -163,7 +163,7 @@ body {
 }
 .menu-bouton {
     color: #000;
-    font-family: Surt, Arial, sans-serif;
+    font-family: monospace;
     font-size: 13px;
     font-weight: 300;
     text-decoration: none;
@@ -174,7 +174,7 @@ body {
     display: block;
 }
 h2 {
-    font-family: Surt, Arial, sans-serif;
+    font-family: monospace;
     font-size: 13px;
     font-weight: 300;
     line-height: 1.7;
@@ -284,7 +284,7 @@ h2 {
 h3 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font-family: Surt, Arial, sans-serif;
+    font-family: monospace;
     font-size: 13px;
     font-weight: 300;
     line-height: 1.7;
@@ -333,7 +333,7 @@ h3 {
     align-items: center;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Surt, Arial, sans-serif;
+    font-family: monospace;
     font-size: 13px;
     font-weight: 300;
     text-decoration: none;
